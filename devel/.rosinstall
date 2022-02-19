@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/lsy/drone_ws/devel/setup.sh
+    local-name: /home/parkjh/mavsdktest/MAVSDK-Python/drone/drone_ws/devel/setup.sh
